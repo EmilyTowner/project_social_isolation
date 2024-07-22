@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Study - Social Isolation"
+  title: "Project - Social Isolation"
   navbar:
     left:
       - href: wiki/pages/index.qmd
