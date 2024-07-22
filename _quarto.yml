@@ -6,14 +6,14 @@ website:
   title: "Study - Social Isolation"
   navbar:
     left:
-      - href: index.qmd
+      - href: wiki/pages/index.qmd
         text: Home
-      - about.qmd
+      - wiki/pages/about.qmd
 
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: wiki/styles/styles.css
     toc: true
 
 
