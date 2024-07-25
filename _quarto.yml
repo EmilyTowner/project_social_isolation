@@ -15,7 +15,6 @@ format:
     theme: 
     - cosmo
     - wiki/styles/custom.scss
-    css: wiki/styles/styles.css
     toc: true
 
 
