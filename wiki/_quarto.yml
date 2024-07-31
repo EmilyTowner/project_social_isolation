@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Project - Social Isolation"
+  navbar:
+    left:
+      - href: pages/index.qmd
+        text: Home
+      - pages/about.qmd
+      - pages/papers.qmd
+
+format:
+  html:
+    theme: 
+    - cosmo
+    - styles/custom.scss
+    css: styles/styles.css
+    toc: true
+
+
+

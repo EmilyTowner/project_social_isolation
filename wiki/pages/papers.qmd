@@ -1,0 +1,7 @@
+---
+title: "Papers"
+---
+
+## Threat Learning
+
+[Towner, E., Thomas, K., Tomova, L., & Blakemore, S. (Preprint). Increased Threat Learning After Social Isolation in Human Adolescents.](https://doi.org/10.31234/osf.io/hsx2q)
