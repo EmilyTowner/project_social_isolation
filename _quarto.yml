@@ -9,6 +9,7 @@ website:
       - href: wiki/pages/index.qmd
         text: Home
       - wiki/pages/about.qmd
+      - papers/papers.qmd
 
 format:
   html:
